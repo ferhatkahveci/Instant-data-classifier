@@ -1,0 +1,2 @@
+# Instant-data-classifier
+This project aims to provide real time information for managers about the organization with instant data flow shortening process of reaching information throughout databases, information systems and reporting. A new prototype application for universities has been developed to support the study. Anomaly detection can be made with data mining techniques and can be classified at three levels according to the level of management. There is no restriction for the research to be used and developed by different businesses and institutions.
